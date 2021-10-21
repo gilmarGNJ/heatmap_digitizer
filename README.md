@@ -1,6 +1,8 @@
 # heatmap_digitizer
 heatmap_digitizer is a python package for extracting numerical data from heatmap images.
 
+![alt text](https://github.com/GilmarGNJ/heatmap_digitizer/blob/master/images/digitized_heatmap.png?raw=true)
+
 ## Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install heatmap_digitizer.
 
