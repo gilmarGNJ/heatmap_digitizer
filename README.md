@@ -11,7 +11,7 @@ pip install heatmap_digitizer
 ```
 
 ## Usage
-On terminal
+On terminal (Recommended)
 
 ```bash
 # Pops up a window. After following instructions within the window, creates a csv file.
