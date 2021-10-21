@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+heatmap_digitizer/__init__.py
+heatmap_digitizer/__main__.py
+heatmap_digitizer/heatmap_digitizer.py
+heatmap_digitizer.egg-info/PKG-INFO
+heatmap_digitizer.egg-info/SOURCES.txt
+heatmap_digitizer.egg-info/dependency_links.txt
+heatmap_digitizer.egg-info/requires.txt
+heatmap_digitizer.egg-info/top_level.txt

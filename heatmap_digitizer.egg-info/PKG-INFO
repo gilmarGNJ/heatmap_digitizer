@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: heatmap-digitizer
+Version: 0.1.0
+Summary: Python code to extract numerical data from heatmap images.
+Home-page: https://github.com/gilmarGNJ/heatmap-digitizer
+Author: gilmarGNJ
+Author-email: gilmar_jr@outlook.com
+License: GNU General Public License v3.0
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+
+UNKNOWN
+
